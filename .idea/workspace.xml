@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9393a4e0-c12b-4e94-b057-f06d80caa641" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades UCSal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/EntradadeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questao1While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questao2While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão1For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão3Atividade1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão4Atividade1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão5Atividade1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão6Atividade1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão7Atividade1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão8Atividade1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão9Atividade1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Variavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/Questao1Atividade2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/Questao1Vetores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/Questao2Atividade2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/Questão3Atividade2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/Questão4Atividade2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/atividade1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/calculadoraIMC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/modularizacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/vetores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questão1Atividade1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão1Atividade1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questão2Atividade1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão2Atividade1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="30" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Luiz Otávio &lt;otaviio.lima@hotmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3BVHShh8qYoLOhvHG12eMbEaVPF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EntradadeDados.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Questao1Atividade2.executor": "Run",
+    "Application.Questao1Vetores.executor": "Run",
+    "Application.Questao1While.executor": "Run",
+    "Application.Questao2Atividade2.executor": "Run",
+    "Application.Questao2While.executor": "Run",
+    "Application.Questão1Atividade1.executor": "Run",
+    "Application.Questão1For.executor": "Run",
+    "Application.Questão1While.executor": "Run",
+    "Application.Questão2Atividade1.executor": "Run",
+    "Application.Questão3Atividade1.executor": "Run",
+    "Application.Questão3Atividade2.executor": "Run",
+    "Application.Questão3While.executor": "Run",
+    "Application.Questão4Atividade1.executor": "Run",
+    "Application.Questão4Atividade2.executor": "Run",
+    "Application.Questão5Atividade1.executor": "Run",
+    "Application.Questão5Atividade2.executor": "Run",
+    "Application.Questão6Atividade1.executor": "Run",
+    "Application.Questão7Atividade1.executor": "Run",
+    "Application.Questão8Atividade1.executor": "Run",
+    "Application.Questão9Atividade1.executor": "Run",
+    "Application.Variavel.executor": "Run",
+    "Application.atividade1.executor": "Run",
+    "Application.atividade2.executor": "Run",
+    "Application.atividadeFor1.executor": "Run",
+    "Application.atividadeWhile1.executor": "Run",
+    "Application.atividadeWhile2.executor": "Run",
+    "Application.atividadeWhile3.executor": "Run",
+    "Application.modularizacao.executor": "Run",
+    "Application.modularizacaoATV.executor": "Run",
+    "Application.questao9Atividade1.executor": "Run",
+    "Application.questão9Atividade1.executor": "Run",
+    "Application.vetores.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/otavi/OneDrive/Desktop/programação/treinamento java intelliJ/Treinamento Java/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Questão9Atividade1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Questão9Atividade1" />
+      <module name="Atividades UCSal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Questão9Atividade1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9393a4e0-c12b-4e94-b057-f06d80caa641" name="Changes" comment="" />
+      <created>1774567329114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774567329114</updated>
+      <workItem from="1774567335962" duration="1578000" />
+      <workItem from="1774614521719" duration="6704000" />
+      <workItem from="1774623590708" duration="392000" />
+      <workItem from="1774659799682" duration="1560000" />
+      <workItem from="1774664998651" duration="985000" />
+      <workItem from="1774709386724" duration="11943000" />
+      <workItem from="1774722602283" duration="117000" />
+      <workItem from="1774722979708" duration="223000" />
+      <workItem from="1774729811230" duration="108000" />
+      <workItem from="1774730872219" duration="683000" />
+      <workItem from="1774895747269" duration="78000" />
+      <workItem from="1774896051747" duration="283000" />
+      <workItem from="1776974474136" duration="11054000" />
+      <workItem from="1777090020553" duration="332000" />
+      <workItem from="1777090466051" duration="181000" />
+      <workItem from="1777253918851" duration="173000" />
+      <workItem from="1777295123094" duration="82000" />
+      <workItem from="1777295434057" duration="3161000" />
+      <workItem from="1777305539861" duration="189000" />
+      <workItem from="1777554670989" duration="1905000" />
+      <workItem from="1777557031673" duration="5159000" />
+      <workItem from="1777665259448" duration="18000" />
+      <workItem from="1777755824131" duration="4575000" />
+      <workItem from="1777899340779" duration="1453000" />
+      <workItem from="1778103288481" duration="4516000" />
+      <workItem from="1778158818064" duration="5014000" />
+      <workItem from="1778182807782" duration="185000" />
+      <workItem from="1778183733852" duration="912000" />
+    </task>
+    <task id="LOCAL-00001" summary="Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é&#10;menor que C.">
+      <option name="closed" value="true" />
+      <created>1774723132926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774723132927</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é&#10;menor que C.">
+      <option name="closed" value="true" />
+      <created>1774723157793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774723157793</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é&#10;menor que C." />
+    <option name="LAST_COMMIT_MESSAGE" value="Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é&#10;menor que C." />
+  </component>
+</project>

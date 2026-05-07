@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Questao2While {
+    static void main() {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Digite um número: ");
+        int num = scanner.nextInt();
+        int i = 1;
+
+        while (i <= num) {
+            System.out.println(num);
+            num--;
+        }
+    }
+}
