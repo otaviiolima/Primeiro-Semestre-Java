@@ -2,7 +2,7 @@ package SegundaUnidade;
 
 import java.util.Scanner;
 
-public class Questão4Atividade2 {
+public class maiorNumero {
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

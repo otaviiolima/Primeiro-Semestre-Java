@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9393a4e0-c12b-4e94-b057-f06d80caa641" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundaUnidade/modularizacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaUnidade/Questao1Atividade2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaUnidade/horarioUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaUnidade/Questao1Vetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaUnidade/somaVetores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaUnidade/Questao2Atividade2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaUnidade/ParOuImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaUnidade/Questão3Atividade2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaUnidade/celsiusFahrenheit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaUnidade/Questão4Atividade2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaUnidade/maiorNumero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +178,7 @@
       <workItem from="1778182807782" duration="185000" />
       <workItem from="1778183733852" duration="912000" />
       <workItem from="1778208632510" duration="1749000" />
-      <workItem from="1778210535329" duration="752000" />
+      <workItem from="1778210535329" duration="1123000" />
     </task>
     <task id="LOCAL-00001" summary="Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é&#10;menor que C.">
       <option name="closed" value="true" />

@@ -2,7 +2,7 @@ package SegundaUnidade;
 
 import java.util.Scanner;
 
-public class Questao1Vetores {
+public class somaVetores {
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

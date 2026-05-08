@@ -2,7 +2,7 @@ package SegundaUnidade;
 
 import java.util.Scanner;
 
-public class Questao1Atividade2 {
+public class horarioUsuario {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
