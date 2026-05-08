@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questão8Atividade1 {
+public class MaiorNumero {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 

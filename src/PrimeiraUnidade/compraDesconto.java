@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questão6Atividade1 {
+public class compraDesconto {
     static void main() {
         double desconto, valorTotal;
         Scanner scanner  = new Scanner(System.in);

@@ -1,16 +1,15 @@
 import java.util.Scanner;
 
-public class Questao1While {
+public class contagemFor {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite um número: ");
         int num = scanner.nextInt();
-        int i = 1;
+        int i;
 
-        while (i <= num) {
+        for (i=0; i<=num; i++) {
             System.out.println(i);
-            i++;
         }
     }
 }

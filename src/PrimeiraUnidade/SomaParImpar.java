@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questão7Atividade1 {
+public class SomaParImpar {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 

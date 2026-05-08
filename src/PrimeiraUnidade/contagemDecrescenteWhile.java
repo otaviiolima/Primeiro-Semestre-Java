@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questao2While {
+public class contagemDecrescenteWhile {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questão5Atividade1 {
+public class DobroOuTriplo {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 

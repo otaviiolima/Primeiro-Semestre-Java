@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questão9Atividade1 {
+public class pesoIdeal {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 

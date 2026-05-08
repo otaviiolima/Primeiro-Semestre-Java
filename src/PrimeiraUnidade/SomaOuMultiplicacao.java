@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Questão4Atividade1 {
+public class SomaOuMultiplicacao {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 
