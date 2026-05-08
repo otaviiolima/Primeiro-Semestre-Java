@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9393a4e0-c12b-4e94-b057-f06d80caa641" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividades UCSal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/EntradadeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questao1While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questao2While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão1For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão3Atividade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão4Atividade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão5Atividade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão6Atividade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão7Atividade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão8Atividade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão9Atividade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Variavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/Questao1Atividade2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/Questao1Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/Questao2Atividade2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/Questão3Atividade2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/Questão4Atividade2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/atividade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/calculadoraIMC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/modularizacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundaUnidade/vetores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questão1Atividade1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão1Atividade1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questão2Atividade1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeiraUnidade/Questão2Atividade1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaUnidade/atividade1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaUnidade/categoriaVoto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +31,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "otaviiolima"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/otaviiolima/java-fundamentos.git",
+    "accountId": "f65f1bef-43cc-47f2-8723-c3a23ccf9d1f"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -105,6 +89,7 @@
     "Application.atividadeWhile1.executor": "Run",
     "Application.atividadeWhile2.executor": "Run",
     "Application.atividadeWhile3.executor": "Run",
+    "Application.calculadoraIMC.executor": "Run",
     "Application.modularizacao.executor": "Run",
     "Application.modularizacaoATV.executor": "Run",
     "Application.questao9Atividade1.executor": "Run",
@@ -119,6 +104,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -188,6 +174,7 @@
       <workItem from="1778158818064" duration="5014000" />
       <workItem from="1778182807782" duration="185000" />
       <workItem from="1778183733852" duration="912000" />
+      <workItem from="1778208632510" duration="1749000" />
     </task>
     <task id="LOCAL-00001" summary="Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é&#10;menor que C.">
       <option name="closed" value="true" />

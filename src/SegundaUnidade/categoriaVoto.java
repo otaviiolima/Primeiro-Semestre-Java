@@ -1,7 +1,7 @@
 package SegundaUnidade;
 
 import java.util.Scanner;
-public class atividade1 {
+public class categoriaVoto {
 
     public static void main(String[] args) {
         // Luiz Otávio Lima
