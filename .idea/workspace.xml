@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9393a4e0-c12b-4e94-b057-f06d80caa641" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundaUnidade/atividade1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaUnidade/categoriaVoto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaUnidade/modularizacao.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,18 +31,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "otaviiolima"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;otaviiolima&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/otaviiolima/java-fundamentos.git",
-    "accountId": "f65f1bef-43cc-47f2-8723-c3a23ccf9d1f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/otaviiolima/java-fundamentos.git&quot;,
+    &quot;accountId&quot;: &quot;f65f1bef-43cc-47f2-8723-c3a23ccf9d1f&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -58,66 +58,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EntradadeDados.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Questao1Atividade2.executor": "Run",
-    "Application.Questao1Vetores.executor": "Run",
-    "Application.Questao1While.executor": "Run",
-    "Application.Questao2Atividade2.executor": "Run",
-    "Application.Questao2While.executor": "Run",
-    "Application.Questão1Atividade1.executor": "Run",
-    "Application.Questão1For.executor": "Run",
-    "Application.Questão1While.executor": "Run",
-    "Application.Questão2Atividade1.executor": "Run",
-    "Application.Questão3Atividade1.executor": "Run",
-    "Application.Questão3Atividade2.executor": "Run",
-    "Application.Questão3While.executor": "Run",
-    "Application.Questão4Atividade1.executor": "Run",
-    "Application.Questão4Atividade2.executor": "Run",
-    "Application.Questão5Atividade1.executor": "Run",
-    "Application.Questão5Atividade2.executor": "Run",
-    "Application.Questão6Atividade1.executor": "Run",
-    "Application.Questão7Atividade1.executor": "Run",
-    "Application.Questão8Atividade1.executor": "Run",
-    "Application.Questão9Atividade1.executor": "Run",
-    "Application.Variavel.executor": "Run",
-    "Application.atividade1.executor": "Run",
-    "Application.atividade2.executor": "Run",
-    "Application.atividadeFor1.executor": "Run",
-    "Application.atividadeWhile1.executor": "Run",
-    "Application.atividadeWhile2.executor": "Run",
-    "Application.atividadeWhile3.executor": "Run",
-    "Application.calculadoraIMC.executor": "Run",
-    "Application.modularizacao.executor": "Run",
-    "Application.modularizacaoATV.executor": "Run",
-    "Application.questao9Atividade1.executor": "Run",
-    "Application.questão9Atividade1.executor": "Run",
-    "Application.vetores.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/otavi/OneDrive/Desktop/programação/treinamento java intelliJ/Treinamento Java/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EntradadeDados.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questao1Atividade2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questao1Vetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questao1While.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questao2Atividade2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questao2While.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão1Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão1For.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão1While.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão2Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão3Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão3Atividade2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão3While.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão4Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão4Atividade2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão5Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão5Atividade2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão6Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão7Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão8Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questão9Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variavel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.atividade2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.atividadeFor1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.atividadeWhile1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.atividadeWhile2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.atividadeWhile3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.calculadoraIMC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modularizacao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modularizacaoATV.executor&quot;: &quot;Run&quot;,
+    &quot;Application.questao9Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.questão9Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vetores.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/otavi/OneDrive/Desktop/programação/treinamento java intelliJ/Treinamento Java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Questão9Atividade1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Questão9Atividade1" />
@@ -175,6 +175,7 @@
       <workItem from="1778182807782" duration="185000" />
       <workItem from="1778183733852" duration="912000" />
       <workItem from="1778208632510" duration="1749000" />
+      <workItem from="1778210535329" duration="752000" />
     </task>
     <task id="LOCAL-00001" summary="Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é&#10;menor que C.">
       <option name="closed" value="true" />
